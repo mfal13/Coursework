@@ -1,2 +1,2 @@
 # Coursework
-Collection of coursework 
+Collection of coursework from my time at university 
